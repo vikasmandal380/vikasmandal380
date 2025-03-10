@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine Learning, Deep Learning, and Data Science
 - 🌱 I’m currently learning Advanced ML techniques, Model Interpretability, and MLOps
 - 💞️ I’m looking to collaborate on Data Science projects, open-source contributions, and hackathons
-- 📫 How to reach me: [vikasmandal380@gmail.com] | [www.linkedin.com/in/vikas-mandal-80bb84152] | [GitHub Profile]
+- 📫 How to reach me: [vikasmandal380@gmail.com] | [www.linkedin.com/in/vikas-mandal-80bb84152] | [github.com/vikasmandal380]
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love turning raw data into meaningful insights and automating tasks using AI!
 - 📊 Recent Projects:
